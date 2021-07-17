@@ -5,8 +5,8 @@
       "title": "Dress 1",
       "image": "/images/dress1.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 2000
+      "availableSizes": ["XS","S","M"],
+      "price": 20
     },
 
     {
@@ -14,8 +14,8 @@
       "title": "Dress 2",
       "image": "/images/dress2.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 2999
+      "availableSizes": ["XS","XXL"],
+      "price": 29
     },
 
     {
@@ -23,56 +23,56 @@
       "title": "Dress 3",
       "image": "/images/dress3.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 3500
+      "availableSizes": ["L","XL","XXL"],
+      "price": 35
     },
     {
       "_id": "dress4",
       "title": "Dress 4",
       "image": "/images/dress4.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 1500
+      "availableSizes": ["XXL"],
+      "price": 15
     },
     {
       "_id": "dress5",
       "title": "Dress 5",
       "image": "/images/dress5.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 1800
+      "availableSizes": ["XS","S"],
+      "price": 18
     },
     {
       "_id": "dress6",
       "title": "Dress 6",
       "image": "/images/dress6.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 1999
+      "availableSizes": ["XL","XXL"],
+      "price": 19
     },
     {
       "_id": "dress7",
       "title": "Dress 7",
       "image": "/images/dress7.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 1700
+      "availableSizes": ["M","L","XXL"],
+      "price": 17
     },
     {
       "_id": "dress8",
       "title": "Dress 8",
       "image": "/images/dress8.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 2800
+      "availableSizes": ["XS","XL","XXL"],
+      "price": 28
     },
     {
       "_id": "dress9",
       "title": "Dress 9",
       "image": "/images/dress9.jpg",
       "description": "about product",
-      "availableSizes": ["XS","S","M","L","XL","XXL"],
-      "price": 2000
+      "availableSizes": ["M","L","XL","XXL"],
+      "price": 20
     }
   ]
 
